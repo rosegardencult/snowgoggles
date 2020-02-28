@@ -1,0 +1,17 @@
+[package]
+name = "snowgoggles"
+version = "0.1.0"
+authors = ["juniper wilde <juniper.r.wilde@gmail.com>"]
+description = "rendering for warmth"
+license = "MIT"
+keywords = ["warmth"]
+homepage = "https://github.com/rosegardencult/snowgoggles"
+repository = "https://github.com/rosegardencult/snowgoggles"
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["staticlib"]

@@ -1,9 +1,9 @@
 [package]
 name = "snowgoggles"
 version = "0.1.0"
-authors = ["juniper wilde <juniper.r.wilde@gmail.com>"]
+authors = ["june wilde <jewilde@rosegardencult.com>"]
 description = "rendering for warmth"
-license = "MIT"
+license = "MPL-2.0"
 keywords = ["warmth"]
 homepage = "https://github.com/rosegardencult/snowgoggles"
 repository = "https://github.com/rosegardencult/snowgoggles"
@@ -14,4 +14,4 @@ edition = "2018"
 
 [lib]
 path = "src/lib.rs"
-crate-type = ["staticlib"]
+crate-type = ["lib", "staticlib"]

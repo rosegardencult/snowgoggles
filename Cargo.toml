@@ -1,6 +1,6 @@
 [package]
 name = "snowgoggles"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["june wilde <jewilde@rosegardencult.com>"]
 description = "rendering for warmth"
 license = "MPL-2.0"
